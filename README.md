@@ -18,6 +18,5 @@ automatically generated inside of the Assets folder. Use
 "Reveal in Finder" to open the new PDF file.
 ```
 
-```python
-![Dev Profile Generator](images/devProf.png)
-```
+
+![Dev Profile Generator](./images/devProf.png)
